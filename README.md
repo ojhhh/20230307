@@ -35,3 +35,16 @@
 
 - 저장소 파일 스테이징(업로드 준비)
 - git add 해당 파일 이름
+
+- git add . (모든 파일 스테이징)
+
+- 커밋 메시지 작성
+- git commit -m "메시지 내용"
+- 파일 업로드 준비 끝
+
+- 원격 저장소 경로 설정
+- git remote add orgin "연결할 원격 저장소"
+- git remote add origin https://github.com/ojhhh/20230307.git
+
+- 저장소에 저장
+- git push -u origin main (master)
